@@ -1,5 +1,11 @@
 # Cloud Engineering Second Semester Exam Project
 
+# Abdulmajid Yunusa
+
+# Track / Course: Cloud Engineering
+
+# Student ID: ALT/SOE/024/1120
+
 ## Project Overview
 
 This project demonstrates how to provision a Linux server, set up a web server, and deploy a simple landing page.
@@ -13,7 +19,7 @@ This project demonstrates how to provision a Linux server, set up a web server, 
 
 ## Public IP Address
 
-- **http://<your-public-ip-address>**
+- **http://18.204.198.188/**
 
 ## Optional: HTTPS Configuration
 
@@ -31,8 +37,3 @@ This project demonstrates how to provision a Linux server, set up a web server, 
 ## How to Access
 
 - Visit the public IP address or domain using a browser.
-
-## Interesting Notes
-
-- Deployed on an AWS free-tier server.
-- HTML page provides my background and project information.
